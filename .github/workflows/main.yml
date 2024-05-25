@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Jean de Dieu Ndahiriwe (Dr. Yohana)</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #00509e; /* Blue from logo */
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #00509e; /* Blue from logo */
+        }
+        nav a {
+            color: #fff;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        nav a:hover {
+            background-color: #ff6600; /* Orange from logo */
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .about, .mission, .services, .testimonials, .blog, .contact, .impact-embassy {
+            background: #fff;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .about h2, .mission h2, .services h2, .testimonials h2, .blog h2, .contact h2, .impact-embassy h2 {
+            color: #00509e; /* Blue from logo */
+        }
+        .footer {
+            background-color: #00509e; /* Blue from logo */
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .logo {
+            display: block;
+            margin: 0 auto;
+            width: 100px; /* Adjust size as needed */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dr. Jean de Dieu Ndahiriwe (Dr. Yohana)</h1>
+        <img src="Untitled design(2).png" alt="Logo" class="logo">
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#mission">Mission</a>
+        <a href="#services">Services</a>
+        <a href="#impact-embassy">Impact Embassy</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#blog">Blog</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <section id="about" class="about">
+            <h2>About Me</h2>
+            <p>I am Dr. Jean de Dieu Ndahiriwe (Dr. Yohana), Executive Director of the Maxwell Leadership Certified Team. I am certified to facilitate, speak, train, and coach in leadership development, professional skills, and personal growth. Trained and mentored by John Maxwell, I am equipped with the tools, resources, and experience to help you and your team improve productivity, performance, and profitability. My resilience and passion for serving others were formed through overcoming insurmountable challenges in life, including the Genocide against the Tutsi in Rwanda. As a person of faith, I focus on military resilience and the effects of combat trauma on mental health. I hold a bachelor's degree in biblical studies, a Master of Human Services in Christian Counseling (Military Resilience), and a Doctor of Leadership in global perspective, specializing in trauma-informed leadership and Post-traumatic Growth.</p>
+        </section>
+        <section id="mission" class="mission">
+            <h2>Mission</h2>
+            <p>Our mission is to cultivate a community of purpose-driven leaders who are committed to leaving a legacy that transcends personal achievements and enriches the lives of others. We aim to empower individuals and organizations to create meaningful, lasting change in the world.</p>
+        </section>
+        <section id="services" class="services">
+            <h2>Services</h2>
+            <p>We offer a range of services including group workshops, corporate training in leadership, speaking, sales, and coaching skills for your leaders. As an Executive Director of the Maxwell Leadership Certified Team, I have access to exclusive content to help you reach your goals and objectives.</p>
+        </section>
+        <section id="impact-embassy" class="impact-embassy">
+            <h2>Impact Embassy: The Legacy Beyond Self</h2>
+            <p>At Impact Embassy, we are dedicated to empowering individuals and organizations to create meaningful, lasting change in the world. Our mission is to cultivate a community of purpose-driven leaders who are committed to leaving a legacy that transcends personal achievements and enriches the lives of others.</p>
+            <h3>Our Vision</h3>
+            <p>We envision a world where every individual recognizes their potential to make a difference, and where communities are strengthened by leaders who prioritize collective well-being over personal gain. Our aim is to inspire and support the creation of legacies that reflect compassion, innovation, and a deep commitment to the greater good.</p>
+            <h3>What We Do</h3>
+            <ul>
+                <li><strong>Leadership Development:</strong> We offer comprehensive programs designed to develop ethical, visionary leaders who are equipped with the skills and mindset needed to drive positive change. Our training includes workshops, seminars, and personalized coaching.</li>
+                <li><strong>Community Engagement:</strong> Impact Embassy fosters collaboration and connectivity among like-minded individuals and organizations. We host events, forums, and networking opportunities that encourage the sharing of ideas and resources, promoting a culture of mutual support and shared goals.</li>
+                <li><strong>Social Impact Projects:</strong> We support and initiate projects that address critical social issues, from education and health to environmental sustainability and economic empowerment. Our focus is on creating scalable and sustainable solutions that have a measurable impact.</li>
+                <li><strong>Advisory Services:</strong> Our team of experts provides strategic guidance to organizations seeking to enhance their social impact. We assist in developing effective strategies, measuring outcomes, and maximizing the positive effects of their initiatives.</li>
+            </ul>
+            <h3>Our Commitment</h3>
+            <p>Impact Embassy is particularly dedicated to uplifting underserved communities, including those who have been historically marginalized or economically disadvantaged. We focus on empowering individuals who are often overlooked or undervalued, providing them with the tools, resources, and support needed to overcome barriers and achieve their full potential.</p>
+        </section>
+        <section id="testimonials" class="testimonials">
+            <h2>Testimonials</h2>
+            <p>Coming soon...</p>
+        </section>
+        <section id="blog" class="blog">
+            <h2>Blog</h2>
+            <p>Coming soon...</p>
+        </section>
+        <section id="contact" class="contact">
+            <h2>Contact</h2>
+            <p>Phone: 703-944-2238</p>
+            <p>Email: ambassadorjdd@gmail.com</p>
+        </section>
+    </div>
+    <footer class="footer">
+        <p>&copy; 2024 Dr. Jean de Dieu Ndahiriwe (Dr. Yohana). All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
